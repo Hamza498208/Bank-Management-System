@@ -1,0 +1,11 @@
+1, John Doe, john.doe@example.com, 555-1234, active, 100,-50,200,300
+2, Jane Smith, jane.smith@example.com, 555-5678, active, 150,250,-30
+3, Alice Johnson, alice.johnson@example.com, 555-8765, inactive, 300,400,500,-100,600
+4, Bob Brown, bob.brown@example.com, 555-4321, active, 50,75,100,-25
+5, Charlie Green, charlie.green@example.com, 555-9999, active, 200,-50,300,400
+6, David White, david.white@example.com, 555-8888, active, 100,200,-50,150
+7, Emily Black, emily.black@example.com, 555-7777, inactive, 300,-100,200,100
+8, Frank Silver, frank.silver@example.com, 555-6666, active, 100,200,-30,300
+9, Grace Blue, grace.blue@example.com, 555-5555, active, 150,-20,250,350
+10, Henry Gold, henry.gold@example.com, 555-4444, inactive, 50,75,-25,100
+1234,xyz,xyz@gmail.com,123456,active,45,-45,45
